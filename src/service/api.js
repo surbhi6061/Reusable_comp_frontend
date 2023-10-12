@@ -3,7 +3,7 @@ import axios from 'axios';
 class AxiosService {
     constructor() {
         this.axiosInstance = axios.create({
-            baseURL: "http://127.0.0.1:9000"
+            baseURL: "https://reusablecomponent-backend-b9b2.onrender.com"
         });
     }
 
