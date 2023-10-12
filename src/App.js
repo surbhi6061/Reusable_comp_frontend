@@ -4,6 +4,7 @@ import ForgotPassword from "./component/ForgotPassword";
 import LoginPage from "./component/LoginPage";
 import SignUp from "./component/SignUp";
 import Form from "./component/Form";
+import Home from "./component/Home";
 
 function App() {
   return (
